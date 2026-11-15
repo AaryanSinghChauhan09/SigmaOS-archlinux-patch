@@ -1,0 +1,8 @@
+[package]
+name = "sigmaos-archlinux-patch"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "sigmaos_archlinux_patch"
+path = "src/lib.rs"
